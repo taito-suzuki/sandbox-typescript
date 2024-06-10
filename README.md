@@ -9,5 +9,8 @@ npm ci
 実行方法
 
 ```bash
+# コンパイル
+npx tsc
+# 直接に実行
 npx ts-node main.ts
 ```
